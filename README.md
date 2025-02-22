@@ -1,2 +1,2 @@
 odaa jechun seera sirna gadaa oromoo jechudha
-[OdaaApp](https://github.com/keyupApp/download/odaaApp.git)
+[OdaaApp](https://github.com/keyupApp/downloads/odaaApp.git)
