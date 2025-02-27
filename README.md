@@ -1,4 +1,10 @@
+POST /users HTTP/1.1
+Host:example.com
+content-Type:application/json
+{
+"name":"tadese-nagewo",
+"email":"taddasaayane98@gmail.com"
+}
 
-<h1>odaa jechun seera sirna gadaa oromoo jechudha</h1>
-          https://github.com/KeyupApp/odaa.git/
+https://github.com/KeyupApp/odaa.git/
 
