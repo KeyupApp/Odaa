@@ -3,7 +3,7 @@ Host:example.com
 content-Type : application/json
 {
 "id" : 123
-"name":"tadese-nagewo",
+"name" : "tadese-nagewo",
 "email" : "taddasaayane98@gmail.com"
 }
 
