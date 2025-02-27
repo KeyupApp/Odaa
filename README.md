@@ -7,5 +7,3 @@ content-Type : application/json
 "email" : "taddasaayane98@gmail.com"
 }
 
-https://github.com/KeyupApp/odaa.git/
-
