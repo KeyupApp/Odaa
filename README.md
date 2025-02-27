@@ -1,9 +1,10 @@
-POST /users HTTP/1.1
+PUT /users/123 HTTP/1.1
 Host:example.com
-content-Type:application/json
+content-Type : application/json
 {
+"id" : 123
 "name":"tadese-nagewo",
-"email":"taddasaayane98@gmail.com"
+"email" : "taddasaayane98@gmail.com"
 }
 
 https://github.com/KeyupApp/odaa.git/
