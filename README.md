@@ -1,7 +1,7 @@
 [README](https://github.com/markdown-it/markdown-it#markdown-it). 
 
-[API down](https://markdown-it.github.io/markdown-it/).
+[API down](https://markdown-it.github.io/markdown-it/)
 
-- 'keyup'
+-[content/README.md](content/README.md)
 
 ## keyupApp
