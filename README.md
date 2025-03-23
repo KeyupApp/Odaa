@@ -7,4 +7,3 @@
 
 [keyup](https://github.com/KeyupApp/Odaa/edit/main/Odaa%20branch)
 
-[Odaa filadhu](https://github.com/KeyupApp/Odaa/edit/main/Odaa%20filadhu)
