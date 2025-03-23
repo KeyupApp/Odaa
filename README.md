@@ -1,5 +1,4 @@
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_text
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_text
+https://www.w3schools.com/html/html_intro.asp?goalId=9eb290f1-fc77-470c-988c-c47f26cfcf86
 [README](https://github.com/markdown-it/markdown-it#markdown-it). 
 
 [API down](https://markdown-it.github.io/markdown-it/)
